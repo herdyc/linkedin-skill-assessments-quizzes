@@ -578,3 +578,31 @@
 - [ ] metric
 - [x] hit
 - [ ] tag
+
+#### Q83. What is a view filter?
+
+- [ ] a way to temporarily modify data before it appears in reports
+- [ ] a way to temporarily modify data after it appears in reports
+- [ ] a way to permanently modify data after it appears in reports
+- [ ] a way to permanently modify data before it appears in reports
+
+#### Q84. What is an example of a hit?
+
+- [ ] pageview
+- [ ] website
+- [ ] user
+- [ ] segment
+  
+#### Q85. What are the four scope types?
+
+- [ ] Visitors, Visits, Actions, and Catalog
+- [x] Users, Sessions, Hits, and Products
+- [x] Visitors, Visits, Events, and Products
+- [ ] Users, Sessions, Actions, and Catalog
+
+#### Q86. What is a risk of using the Compare to Previous Period option?
+
+- [ ] Both sets of data may appear on the same graph, which will skew your ability to analyze impact.Both sets of data may appear on the same graph, which will skew your ability to analyze impact.
+- [ ] The same amount of days selected for the Date Range will be used for the comparison.The same amount of days selected for the Date Range will be used for the comparison.
+- [ ] It is not possible to compare previous periods with sampled data pulled ad hoc.It is not possible to compare previous periods with sampled data pulled ad hoc.
+- [ ] If the review period is Wednesday to Thursday, the previous period may include weekends, which may skew the comparison.
