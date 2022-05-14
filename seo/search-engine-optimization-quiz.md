@@ -556,3 +556,12 @@
 - [ ] Conduct a technical audit.
 - [ ] Conduct a backlink audit.
 - [ ] Determine keyword strategy.
+    
+    
+#### Q65. You are optimizing a large e-commerce website. Which strategy will likely yield the most organic traffic?You are optimizing a large e-commerce website. Which strategy will likely yield the most organic traffic?
+
+- [ ] Launch a Smart Shopping Campaign in Google Ads.Launch a Smart Shopping Campaign in Google Ads.
+- [ ] Optimize your product category pages.Optimize your product category pages.
+- [ ] Optimize the home page of your website.Optimize the home page of your website.
+- [ ] Optimize each product page with a unique product-specific keyword.
+    
