@@ -730,3 +730,17 @@ public Pojo getPojo(@PathVariable("id") String id) {
 - [ ] active.spring.profiles
 - [x] spring.profiles.active
 - [ ] profiles
+
+#### Q71. What is the difference between a CrudRepository and a JpaRepository?
+
+- [x] The CrudRepository extends the PagingAndSortingRepository, while the JpaRepository does not.
+- [ ] The CrudRepository is part of the Java EE API, while JpaRepository is specific to Spring Data.
+- [ ] The CrudRepository exposes a superset of interface methods containing every datastore-specific method supported by Spring data. The JpaRepository contains only those specific to Spring Data JPA.
+- [ ] The CrudRepository is a base interface within Spring Data core that exposes a dedicated set of functions.
+ 
+#### Q72. What is the security filter chain?
+
+- [ ] It's a security filter chain that consumes multiple factors of authentication—such as password, token verification, biometrics, and IP whitelisting—to successfully log a user into the system.
+- [ ] It's a security filter chain that provides authentication with manual intervention such that multiple administrators of the system are able to approve users with auditability and traceability.
+- [ ] It's a series of user-completed activities—such as password authorization, token verification, and many others—that require multiple factors of authentication to increase the level of security in the system.
+- [x] It's a servlet filter chain where each filter has a specific responsibility such as security context, user and password authorization, exception translation, or filter security interception, processed in order.
